@@ -1,0 +1,20 @@
+hr{
+    width: 500px;
+    margin-left: 0px;
+    border: 0.5px solid red;
+}
+.box2{
+    box-sizing: border-box;
+    width: 500px;
+    background-color: fuchsia;
+    border: 5px solid lawngreen;
+    padding: 50px;
+    margin-bottom: 10px;
+}
+.box1{
+    box-sizing: content-box; /*This is by default used*/
+    width: 500px;
+    background-color: fuchsia;
+    border: 5px solid lawngreen;
+    padding: 50px;
+}

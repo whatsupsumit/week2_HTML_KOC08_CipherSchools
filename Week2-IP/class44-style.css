@@ -1,0 +1,18 @@
+h1{
+    color: teal;
+}
+.classh1{
+    color: aqua;
+}
+#h1id{
+    color: blue;
+}
+/* Id is more specific then classs. class is more specific than element */
+div#container ul.mysongs li{
+    color: aqua;
+    background-color: brown;
+}
+div#container ul.mysongs li.fav{
+    color: rgb(208, 255, 0);
+    background-color: rgb(79, 42, 165);
+}

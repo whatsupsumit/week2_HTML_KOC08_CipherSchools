@@ -1,0 +1,29 @@
+/* *{
+    color: aquamarine;
+} */
+
+header{
+    background-color: rgb(126, 173, 126);
+}
+section.myarticle{
+    background-color: #f2e9e9;
+}
+header p{
+    color: rgb(255, 0, 0);
+}
+
+li a{
+    color: aquamarine;
+}
+
+/* section.myarticle h2{
+    color: azure;
+} */
+
+section.myarticle > h2{
+    color: firebrick;
+}
+
+h2+p{
+    color: #333;
+}

@@ -1,0 +1,11 @@
+input[type="text"]{
+    color: aquamarine;
+    background-color: blueviolet;
+}
+input[type='password']{
+    color: blue;
+    background-color: chartreuse;
+}
+a[href*='youtube']{
+     color: orange; /* This *= is used when you want to chnge color of all */
+}

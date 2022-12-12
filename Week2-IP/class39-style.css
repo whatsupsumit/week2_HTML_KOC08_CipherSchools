@@ -1,0 +1,12 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#mainhead{
+    background-color: blue;
+}
+.para{
+    background-color: blueviolet;
+}
+p{
+    color: aqua;
+}

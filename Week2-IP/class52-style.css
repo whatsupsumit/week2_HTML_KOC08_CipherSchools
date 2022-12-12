@@ -1,0 +1,16 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aqua;
+}
+h1,h2{
+    /* width: 500px; */
+    border: 2px solid red;
+    display: inline;
+}
+/* h1{
+    margin: 100px;
+} */
+a{
+    border: 2px solid black;
+    display: block;
+}

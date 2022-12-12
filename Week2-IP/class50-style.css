@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Spray+Paint&display=swap');
+body{
+    font-family: 'Rubik Spray Paint', cursive;
+}
+
+.container{
+    width: 750px;
+    margin: 0px auto;
+}
+h1{
+    background-color: #cdcdcd;
+    text-align: center;
+    padding: 15px 0px;
+}
+section{
+    border: 2px solid black;
+}
+.aboutme{
+    margin-bottom: 40px;
+}
+section h3{
+    text-transform: uppercase;
+}

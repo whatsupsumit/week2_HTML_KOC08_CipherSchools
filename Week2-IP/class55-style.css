@@ -1,0 +1,32 @@
+body{
+    font-family: fantasy;
+    padding: 0px 40px;
+    
+}
+nav{
+    background-color: grey;
+}
+h1,h2{
+    color: #222;
+    border-bottom: 1px solid #222;
+}
+a{
+    color: darkslategrey;
+    text-decoration: underline;
+}
+
+nav li{
+    display: inline-block;
+    list-style: none;
+    margin: 15px 20px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+nav ul{
+    padding-left: 0px;
+    text-align: center;
+}
+
+section{
+    margin-top: 35px;
+}
